@@ -1,0 +1,18 @@
+void main()
+//shiraz university of technology
+{
+    int a = 5.8;
+    String a=;
+    /*
+        this is sample comment
+        int b='f'
+        sutech = 3
+    */
+    String sutech = "SUTECH";
+    for(a=3;a<"ali";a++)
+    /*{
+        a++;
+        b+=3;
+    }*/
+    {a--;}
+}
