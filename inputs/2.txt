@@ -1,0 +1,10 @@
+void main(){
+    int String = 6;
+    while(1==5){
+        // nothing to do !!!
+    }
+    if (char!=   4){
+        char abc = 'wrong char';
+                    for(abc=3;acb<5;       bac++){abc++;}
+    }
+}
