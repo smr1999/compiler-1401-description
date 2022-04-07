@@ -1,0 +1,27 @@
+void main(){
+    // this is a comment
+    // int a = 5
+    int a = 5;
+    if(                 a==500)
+
+
+
+
+
+
+//    {
+    {
+        for(int counter=6 ; counter>=0    ;counter--)
+        while(true)
+        {
+            /* this a comment
+            skip this
+            goodbye
+            */
+            String hhhhh = "ali";
+            break;
+        }
+        a-=1000;
+    }
+    a++;
+}
