@@ -1,0 +1,31 @@
+/*
+Lorem ipsum dolor sit amet.
+Quis officiis et fugiat quam ea sunt nesciunt.
+33 voluptates neque ut dolores aperiam non aspernatur exercitationem cum quos culpa.
+Est debitis quos eum quam illum ut doloribus autem et neque eaque sit galisum corporis sed possimus quaerat.
+Et voluptas sint et accusantium suscipit qui error dolores eos velit corrupti. 
+*/
+
+void main(){
+    //Lorem ipsum dolor sit amet. Quis officiis et fugiat quam ea sunt nesciunt. 33 voluptates neque ut dolores aperiam non aspernatur exercitationem cum quos culpa. Est debitis quos eum quam illum ut doloribus autem et neque eaque sit galisum corporis sed possimus quaerat. Et voluptas sint et accusantium suscipit qui error dolores eos velit corrupti. 
+    int var = 3;
+    char c = 'd';
+    long r = 9.6;
+    for(int while = 5 ; while<=1000;while++){var--;}
+    if(false==true){
+        while(true){
+            if(1==1){
+                r++;
+            }
+        }
+    }
+    else if(c!=false){r--;}
+    
+    
+    //this is comment
+    //you can ignore it
+    else{
+        c++;
+        f--;
+    }
+}
