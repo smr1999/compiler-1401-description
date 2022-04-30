@@ -1,0 +1,17 @@
+void main(){
+    flag = false;
+    while(flag){
+        a=;
+        if(d/*)*/==2){
+            b+=3;
+        }
+    }
+    switch(f){
+        case 2
+        break;
+        case "string":
+        break;
+        default:
+        b--
+    }
+}
