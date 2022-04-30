@@ -1,0 +1,21 @@
+void main(){
+// void main
+//()
+//{}
+int name = "ali alavi"
+name++
+_Lname = 'ahamadi'
+if()
+{
+    while(false!=treu){
+        name = 10;
+    }
+}
+else if(
+    bool fales= 35;
+    
+/*
+*??
+sutech 1401
+*/
+}
