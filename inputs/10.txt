@@ -1,0 +1,25 @@
+void main(){
+    """""test string"
+    /*
+        int a=4;
+        while(true){int b=0;}
+    */
+    for(int c=1;c<=10;c++){
+        for(char d='a';d<='z';d++){
+            if(c==d){
+                break;
+            }
+        }
+    }
+    else{
+        c/=10;
+    }
+    
+    /*Lorem ipsum dolor sit amet.
+Quis officiis et fugiat quam ea sunt nesciunt.
+33 voluptates neque ut dolores aperiam non aspernatur exercitationem cum quos culpa.
+Est debitis quos eum quam illum ut doloribus autem et neque eaque sit galisum corporis sed possimus quaerat.
+Et voluptas sint et accusantium suscipit qui error dolores eos velit corrupti. */
+    
+    d--;
+}
