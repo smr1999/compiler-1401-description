@@ -1,0 +1,18 @@
+void main(){
+    //this is test
+    int a;
+    a=          10;int a='t';
+    switch(a){
+        case 3:
+        for(b;b<=10;b--);
+        break;
+        case 0:
+        break;
+        default:
+        while(true){
+            int temp=3;
+        }
+    }
+    if(a%3!=2) {//this is sample code}
+}
+}
