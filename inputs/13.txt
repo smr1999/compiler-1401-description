@@ -1,0 +1,13 @@
+void main()
+{// you can ignore here
+// this is not important
+a=;//
+
+while(a==false){if(c!=4) a--}
+for(f=4;f<2;){
+    c=10;
+    for(v=9,v==3,v--){
+        string = 12;
+    name = "hamid;
+}
+}
